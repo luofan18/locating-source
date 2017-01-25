@@ -1,6 +1,6 @@
 # locating-source
 
-This is parts of the code for comparing the algorithm. 
+This is parts of the code for comparing the algorithms. 
 
 'commmon' include the support function and two implementation of the algorithms
 
